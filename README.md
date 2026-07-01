@@ -12,5 +12,4 @@ compiled separately from the sketch.
 
 ![Sample Animation](docs/animation.gif)
 
-
-```
+![Sample Electric Animation](docs/electric.gif)
