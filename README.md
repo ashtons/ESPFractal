@@ -12,18 +12,5 @@ compiled separately from the sketch.
 
 ![Sample Animation](docs/animation.gif)
 
-## Animated preview
 
-The companion Python script can render a short, seamless zoom-and-orbit animation:
-
-```bash
-python3 -m pip install Pillow
-python3 animate_fractal.py
-```
-
-This creates `fractal_animation.gif` with 12 frames. The frame count and playback
-speed can be changed, for example:
-
-```bash
-python3 animate_fractal.py preview.gif --frames 15 --duration 80
 ```
